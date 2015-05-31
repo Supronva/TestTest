@@ -4,3 +4,6 @@ c:\users\oag\documents\visual studio 2012\Projects\EpamTextReader\EpamTextReader
 c:\users\oag\documents\visual studio 2012\Projects\EpamTextReader\EpamTextReader\bin\Debug\EpamTextReader.pdb
 c:\users\oag\documents\visual studio 2012\Projects\EpamTextReader\EpamTextReader\obj\Debug\EpamTextReader.exe
 c:\users\oag\documents\visual studio 2012\Projects\EpamTextReader\EpamTextReader\obj\Debug\EpamTextReader.pdb
+C:\Users\oag\Documents\GitHub\TestTest\EpamTextReader\EpamTextReader\bin\Debug\EpamTextReader.exe.config
+C:\Users\oag\Documents\GitHub\TestTest\EpamTextReader\EpamTextReader\obj\Debug\EpamTextReader.exe
+C:\Users\oag\Documents\GitHub\TestTest\EpamTextReader\EpamTextReader\obj\Debug\EpamTextReader.pdb
