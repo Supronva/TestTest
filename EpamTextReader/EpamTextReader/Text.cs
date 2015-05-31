@@ -34,9 +34,9 @@ namespace EpamTextReader
         public void ReadFromFile(string filePath)
         {
 
-            //FilePath = filePath;
-            //string pattern = @"([А-ЯA-Z]((т.п.|т.д.|пр.)|[^?!.\(]|\([^\)]*\))*[.?!])";
-            //string line;
+            FilePath = filePath;
+            string pattern = @"([А-ЯA-Z]((т.п.|т.д.|пр.)|[^?!.\(]|\([^\)]*\))*[.?!])";
+            string line;
             StreamReader file = File.OpenText(FilePath);
 
             while ((line = file.ReadLine()) != null)
